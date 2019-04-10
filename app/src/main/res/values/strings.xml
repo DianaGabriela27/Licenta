@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PlanYourTrip</string>
+    <string name="empty_description">No description available.</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="hint_email">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="loginButton">Login</string>
+    <string name="signUpButton">SignUp</string>
+    <string name="toast_invalid_username_or_password">Invalid username or password</string>
+    <string name="create_account_text"><u>Not registered yet? Create new account</u></string>
+    <string name="login_text"><u>Already a member? Login</u></string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="invalid_email_error">Invalid email format</string>
+    <string name="invalid_password">Password must contain at least 1 Capital Alphabet, 1 Number and 1 Special Character.</string>
+    <string name="password_length">Password must contain minimum 8 characters</string>
+    <string name="passwords_check">Passwords do not match!</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="required_error">Required field!</string>
+    <string name="signout_message">Are you sure want to sign out?</string>
+    <string name="positive_button">OK</string>
+    <string name="app_description">A must-have app for people who are interested in travelling. The app provides users with various features, from choosing their desired destination, to planning an entine itinerary or choosing an existent one, to making bookings and even be rewarded by visiting different places with our awarding system. The app is completely free to use and should you have a suggestion for us or want to report a bug you can send us an email at support@planyourtrip.com.</string>
+
+</resources>
