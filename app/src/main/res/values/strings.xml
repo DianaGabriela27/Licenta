@@ -22,5 +22,9 @@
     <string name="signout_message">Are you sure want to sign out?</string>
     <string name="positive_button">OK</string>
     <string name="app_description">A must-have app for people who are interested in travelling. The app provides users with various features, from choosing their desired destination, to planning an entine itinerary or choosing an existent one, to making bookings and even be rewarded by visiting different places with our awarding system. The app is completely free to use and should you have a suggestion for us or want to report a bug you can send us an email at support@planyourtrip.com.</string>
+    <string name="weather_forecast_message">Check weather forecast of the city you wish to travel to!</string>
+    <string name="search_title">Cities</string>
+    <string name="search_hint">What are you looking for…?</string>
+    <string name="city_not_found">Sorry! No weather forecast found for %1$s.</string>
 
 </resources>

@@ -152,10 +152,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 //                fragment = CityFragment.newInstance();
 //                break;
 //
-//            case R.id.nav_utility:
-//                fragment = UtilitiesFragment.newInstance();
-//                break;
-//
+            case R.id.nav_weather:
+                Intent intent = new Intent(this, WeatherForecastActivity.class);
+                startActivity(intent);
+                //fragment = UtilitiesFragment.newInstance();
+                //break;
             case R.id.nav_about_us:
                 fragment = AboutUsFragment.newInstance();
                 break;
